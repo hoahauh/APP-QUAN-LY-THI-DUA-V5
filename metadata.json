@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý thi đua LĐ trường TH&THCS Phước Hiệp",
+  "description": "Hệ thống quản lý, chấm điểm và xếp hạng thi đua nề nếp Liên Đội trường TH&THCS Phước Hiệp tích hợp Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
